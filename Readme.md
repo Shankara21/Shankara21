@@ -6,10 +6,6 @@
 <p align='center'>
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Shankara21.Shankara21)
-[![Github](https://img.shields.io/github/followers/Shankara21?label=Follow&style=social)](https://github.com/Shankara21)
-
 <div size='20px'> Hi! My name is Muhammad Lazuardi Timur but you can call me Timur. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -51,21 +47,6 @@
   
 <br>
 <br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shankara21&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Shankara21&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shankara21&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankara21&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shankara21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+[Shankara's github stats](https://github-readme-stats.vercel.app/api?username=Shankara21&show_icons=true&theme=tokyonight)[Shankara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shankara21&theme=tokyonight)[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankara21&theme=tokyonight)[Github Stars](https://github-readme-stats.vercel.app/api?username=Shankara21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Shankara21)
-
-Last Edited on: 04/09/2021
