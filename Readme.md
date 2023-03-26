@@ -68,9 +68,20 @@
   
 <br>
 <br>
-  <br>
+ <br>
 
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Shankara21&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shankara21&theme=tokyonight)                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankara21&theme=tokyonight)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shankara21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<h2> Activity </h2>
+<p align="center">
+  <a href="https://github.com/Shankara21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankara21&theme=tokyonight&hide_border=true" alt="Shankara21's GitHub streak"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Shankara21"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Shankara21&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Shankara21"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shankara21&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+[![Shankara21's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shankara21&theme=tokyo-night)](https://github.com/Shankara21/github-readme-activity-graph)
