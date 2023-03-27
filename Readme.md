@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently a student at the State Polytechnic of Malang.
 - 🌱 I’m currently learning ExpressJs, Angular, React, Laravel.
-- 👯 I’m looking to collaborate on Proyectos.
+- 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Sql, Java, Javascript, PHP, MongoDB.
 - ⚡ Fun fact: I'm a football fan and also ufc.
 
