@@ -45,28 +45,11 @@
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltyra.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fmysql-logo-png-transparent.png&f=1&nofb=1&ipt=2480df3840e80cfd6a72f63b09d897f9f3efae3833c1c40186117058e7c29201&ipo=images'> </a>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2021%2F06%2FMongoDB-Logo.png&f=1&nofb=1&ipt=8549dad073694ec0afa9e19eff93413cc95ffbab9aff80b1d0706c0cebca0309&ipo=images'> </a>
 
-<!-- <a> <img width ='32px' src ='https://img.icons8.com/fluency/512/flutter.png'> </a>
-<a> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png'> </a>
-<a> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'> </a>
-<a> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.doubleklickdesigns.com%2Fwp-content%2Fuploads%2F2020%2F07%2Freactjs-300x267.png&f=1&nofb=1&ipt=2a0ba633bb71a2a87fafbe05e1ee311c18df089bbc46d52d358e0f8e1e08e80d&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mattbenton.io%2Fimg%2Flogos%2Fvue-9-logo-png-transparent-min.png&f=1&nofb=1&ipt=e909ce31156bbdb0c323b012f946d58c05c9df6bcc025f96332f24da9412e96e&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fangular-icon-logo-png-transparent.png&f=1&nofb=1&ipt=6a31cb42011fa5a479d2d0705b15fe56211a1e84ff56ef573d0966fa14e2e565&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1&ipt=31fde9a14d8871a6383579cfc0258d7cce101f51176facfe5c1383385722752c&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F05%2FJava-PNG-Picture.png&f=1&nofb=1&ipt=c9d74aff453c098a218f9bdf177ef7252e2493d442b779942a96a402f1ef8629&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandlogos.net%2Fwp-content%2Fuploads%2F2021%2F09%2Fbootstrap-logo.png&f=1&nofb=1&ipt=990e8f2d0d966d51c0e450816fd593b0b1f5b00be3a0a786cd73962e3d95bb62&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodekitapp.com%2Fimages%2Fhelp%2Ffree-tailwind-icon%402x.png&f=1&nofb=1&ipt=9749a357c876a26ea9e5036f0ec398ec91ea8721cb30b9f41ae029dd3ae8941b&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltyra.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fmysql-logo-png-transparent.png&f=1&nofb=1&ipt=2480df3840e80cfd6a72f63b09d897f9f3efae3833c1c40186117058e7c29201&ipo=images'> </a>
-<a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2021%2F06%2FMongoDB-Logo.png&f=1&nofb=1&ipt=8549dad073694ec0afa9e19eff93413cc95ffbab9aff80b1d0706c0cebca0309&ipo=images'> </a> -->
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="mailto:lazuardit21@gmail.com"><img src="https://img.shields.io/badge/-lazuardit21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Shankara21-2B3467?style=flat&logo=github&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Muhammad Lazuardi Timur-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
   
 <br>
-<br>
- <br>
-
 
 <h2> Activity </h2>
 <p align="center">
