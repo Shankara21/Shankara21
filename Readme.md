@@ -9,7 +9,7 @@
 <div size='20px'> Hi! My name is Muhammad Lazuardi Timur but you can call me Timur. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://cdn-icons-png.flaticon.com/512/3357/3357329.png" height="30px"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://ik.imagekit.io/siapahayo/25273349_programmer_v_02.jpg?updatedAt=1679627832945" />
 
@@ -19,19 +19,7 @@
 - 💬 Ask me about Sql, Java, Javascript, PHP, MongoDB.
 - ⚡ Fun fact: I'm a football fan and also ufc.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<!-- <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a> -->
+<h2> Skills <img src = "https://cdn-icons-png.flaticon.com/512/1049/1049443.png" width = 30px> </h2>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://img.icons8.com/fluency/512/flutter.png'> </a>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png'> </a>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'> </a>
@@ -45,13 +33,11 @@
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltyra.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fmysql-logo-png-transparent.png&f=1&nofb=1&ipt=2480df3840e80cfd6a72f63b09d897f9f3efae3833c1c40186117058e7c29201&ipo=images'> </a>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2021%2F06%2FMongoDB-Logo.png&f=1&nofb=1&ipt=8549dad073694ec0afa9e19eff93413cc95ffbab9aff80b1d0706c0cebca0309&ipo=images'> </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://cdn-icons-png.flaticon.com/512/7933/7933271.png' height="30px"> </h2>
 
 <a href="mailto:lazuardit21@gmail.com"><img src="https://img.shields.io/badge/-lazuardit21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Shankara21-2B3467?style=flat&logo=github&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Muhammad Lazuardi Timur-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
-  
-<br>
 
-<h2> Activity </h2>
+<h2> Activity <img src='https://cdn-icons-png.flaticon.com/512/9609/9609487.png' height="30px"> </h2>
 <p align="center">
   <a href="https://github.com/Shankara21">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankara21&theme=tokyonight&hide_border=true" alt="Shankara21's GitHub streak"/>
