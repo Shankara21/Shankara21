@@ -60,11 +60,8 @@
 <a> <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2021%2F06%2FMongoDB-Logo.png&f=1&nofb=1&ipt=8549dad073694ec0afa9e19eff93413cc95ffbab9aff80b1d0706c0cebca0309&ipo=images'> </a> -->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://Shankara21.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Shankara21'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><a href = 'mailto:lazuardit21@gmail.com'> <img width = '32px' align= 'center' src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftecherator.com%2Fwp-content%2Fuploads%2F2013%2F06%2FGmail-Logo.png&f=1&nofb=1&ipt=8c32b4062b27dfdc3b7e6f9782db9fb5593543b7773cf53fc0e655ae8f61436b&ipo=images"/></a>
+
+<a href="mailto:lazuardit21@gmail.com"><img src="https://img.shields.io/badge/-lazuardit21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Shankara21-2B3467?style=flat&logo=github&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Muhammad Lazuardi Timur-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
   
 <br>
 <br>
