@@ -32,6 +32,7 @@
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodekitapp.com%2Fimages%2Fhelp%2Ffree-tailwind-icon%402x.png&f=1&nofb=1&ipt=9749a357c876a26ea9e5036f0ec398ec91ea8721cb30b9f41ae029dd3ae8941b&ipo=images'> </a>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltyra.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fmysql-logo-png-transparent.png&f=1&nofb=1&ipt=2480df3840e80cfd6a72f63b09d897f9f3efae3833c1c40186117058e7c29201&ipo=images'> </a>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000marcas.net%2Fwp-content%2Fuploads%2F2021%2F06%2FMongoDB-Logo.png&f=1&nofb=1&ipt=8549dad073694ec0afa9e19eff93413cc95ffbab9aff80b1d0706c0cebca0309&ipo=images'> </a>
+    <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Ftypescript_plain_logo_icon_146316.png&f=1&nofb=1&ipt=78d6ccc88761a275f6a16aa7fc2de31deed75cafac43c59f9ed1eb8d39ce753b&ipo=images'> </a>
 
 <h2> Connect with me <img src='https://cdn-icons-png.flaticon.com/512/7933/7933271.png' height="30px"> </h2>
 
