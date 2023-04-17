@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Muhammad Lazuardi Timur but you can call me Timur. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi there! My name is Muhammad Lazuardi Timur and I am a coding enthusiast. I am highly proficient in several programming languages including Javascript, PHP, MySQL, etc. I have a passion for coding and enjoy creating innovative solutions to complex problems. In addition to my technical skills, I am a highly motivated individual with excellent problem-solving abilities. I am always eager to learn and take on new challenges. If you are interested in collaborating on any coding projects, feel free to get in touch with me. :smile: 
 </div>
 
 <h2> About Me <img src = "https://cdn-icons-png.flaticon.com/512/3357/3357329.png" height="30px"></h2>
