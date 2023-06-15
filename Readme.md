@@ -52,4 +52,4 @@
 </a>
 
 
-[![Shankara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shankara21&theme=nord)](https://github.com/Shankara21/github-readme-activity-graph)
+[![Shankara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shankara21&theme=cobalt)](https://github.com/Shankara21/github-readme-activity-graph)
