@@ -51,4 +51,4 @@
   <br/>
 </a>
 
-[![Shankara21's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shankara21&theme=tokyo-night)](https://github.com/Shankara21/github-readme-activity-graph)
+
