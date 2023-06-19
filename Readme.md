@@ -14,10 +14,10 @@
 <img width="55%" align="right" alt="Github" src="https://ik.imagekit.io/Lazuardi/25273349_programmer_v_02-removebg-preview.png?updatedAt=1687174295036" />
 
 - 🔭 I’m currently a student at the State Polytechnic of Malang.
-- 🌱 I’m currently learning ExpressJs, Angular, React, Laravel.
+- 🌱 I’m currently learning ExpressJs, Angular, React, Laravel, NEXT.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Sql, Java, Javascript, PHP, MongoDB.
-- ⚡ Fun fact: I'm a culer.
+- ⚡ Fun fact: I'm a culers.
 
 <h2> Skills <img src = "https://cdn-icons-png.flaticon.com/512/1049/1049443.png" width = 30px> </h2>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://img.icons8.com/fluency/512/flutter.png'> </a>
