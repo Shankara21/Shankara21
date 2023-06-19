@@ -11,13 +11,13 @@
 
 <h2> About Me <img src = "https://cdn-icons-png.flaticon.com/512/3357/3357329.png" height="30px"></h2>
 
-<img width="55%" align="right" alt="Github" src="https://ik.imagekit.io/siapahayo/25273349_programmer_v_02.jpg?updatedAt=1679627832945" />
+<img width="55%" align="right" alt="Github" src="https://ik.imagekit.io/Lazuardi/25273349_programmer_v_02-removebg-preview.png?updatedAt=1687174295036" />
 
 - 🔭 I’m currently a student at the State Polytechnic of Malang.
 - 🌱 I’m currently learning ExpressJs, Angular, React, Laravel.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Sql, Java, Javascript, PHP, MongoDB.
-- ⚡ Fun fact: I'm a football fan and also ufc.
+- ⚡ Fun fact: I'm a culer.
 
 <h2> Skills <img src = "https://cdn-icons-png.flaticon.com/512/1049/1049443.png" width = 30px> </h2>
 <a href= https://github.com/Shankara21?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://img.icons8.com/fluency/512/flutter.png'> </a>
@@ -52,4 +52,4 @@
 </a>
 
 
-[![Shankara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shankara21&theme=cobalt)](https://github.com/Shankara21/github-readme-activity-graph)
+[![Shankara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shankara21&theme=tokyo-night)](https://github.com/Shankara21/github-readme-activity-graph)
