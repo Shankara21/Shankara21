@@ -36,7 +36,7 @@
 
 <h2> Connect with me <img src='https://cdn-icons-png.flaticon.com/512/7933/7933271.png' height="30px"> </h2>
 
-<a href="mailto:lazuardit21@gmail.com"><img src="https://img.shields.io/badge/-lazuardit21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Shankara21-2B3467?style=flat&logo=github&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Muhammad Lazuardi Timur-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lazuardit21@gmail.com"><img src="https://img.shields.io/badge/-lazuardit21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/Shankara21"><img src="https://img.shields.io/badge/-Shankara21-2B3467?style=flat&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/muhammad-lazuardi-timur-505b2319b/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad Lazuardi Timur-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 <h2> Activity <img src='https://cdn-icons-png.flaticon.com/512/9609/9609487.png' height="30px"> </h2>
 <p align="center">
