@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://ik.imagekit.io/Lazuardi/25273349_programmer_v_02-removebg-preview.png?updatedAt=1687174295036" />
 
 - 🔭 I’m currently a student at the State Polytechnic of Malang.
-- 🌱 I’m currently learning ExpressJs, Angular, React, Laravel, NEXT.
+- 🌱 I’m currently learning ExpressJs, Angular, React, Laravel, NEXT, Flutter.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Sql, Java, Javascript, PHP, MongoDB.
 - ⚡ Fun fact: I'm a culers.
